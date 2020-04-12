@@ -1,6 +1,6 @@
-# react-xterm
-
-Simple react component for [xterm.js](https://github.com/sourcelair/xterm.js)
+# react-xterm-sample
 
 
-Now the version number is based on XTerm.js version number. Easier to see what you are working with
+This is a `react` project and uses simple react component from [react-xterm](https://github.com/farfromrefug/react-xterm/) which is a basic implementation of [xterm.js](https://github.com/xtermjs/xterm.js)
+
+
