@@ -16,7 +16,7 @@
     "node-pty": "^0.9.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-xterm": "^2.0.4",
     "typescript": "^3.7.5",
     "xterm": "^4.5.0",
